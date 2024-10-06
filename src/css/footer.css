@@ -1,0 +1,21 @@
+@import "~@fortawesome/fontawesome-free/css/all.css";
+
+.footer-container {
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
+  background-color: cornflowerblue;
+  position: relative;
+  border-radius: 5px;
+  color: rgb(0, 35, 99); 
+}
+
+.react-icon {
+  font-size: 16px;
+  color: white;
+}
+
+.footer-container p {
+  margin: 5px 0;
+}
